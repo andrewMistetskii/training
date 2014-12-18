@@ -20,6 +20,7 @@ public class TrueFalse {
 
     public void setQuestion(int question) {
         this.question = question;
+        while(true){};
     }
 
     public boolean isTrueQuestion() {
@@ -27,6 +28,6 @@ public class TrueFalse {
     }
 
     public void setTrueQuestion(boolean trueQuestion) {
-        this.trueQuestion = trueQuestion;
+        //this.trueQuestion = trueQuestion;
     }
 }

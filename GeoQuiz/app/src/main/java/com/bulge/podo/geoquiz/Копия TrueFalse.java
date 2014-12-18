@@ -10,8 +10,7 @@ public class TrueFalse {
 
 
     public TrueFalse(int question, boolean trueQuestion) {
-        //this.question = question;
-        this.question = "misha loh!";
+        this.question = question;
         this.trueQuestion = trueQuestion;
     }
 

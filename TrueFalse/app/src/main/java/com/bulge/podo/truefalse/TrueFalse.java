@@ -31,4 +31,5 @@ public class TrueFalse {
     }
 
     int i = 5; 
+    while(true){}
 }

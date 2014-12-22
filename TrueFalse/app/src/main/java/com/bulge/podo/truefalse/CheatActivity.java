@@ -20,7 +20,6 @@ public class CheatActivity extends Activity {
     private Button showAnswerButton;
     private TextView showAnswerTextView;
     private boolean mAnswerIsTrue;
-    private boolean mAnswerisFalse;
 
     private void setAnswerShownResult(boolean isAnswerShown){
         Intent data = new Intent();

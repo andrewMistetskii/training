@@ -31,5 +31,9 @@ public class TrueFalse {
     }
 
     int i = 5; 
-    while(true){}
+    while(true){
+        System.out.println("Yes!!");
+
+    }
+
 }
